@@ -14,8 +14,6 @@ public class TestSorting {
         products.add(p2);
         products.add(p3);
         products.add(p1);
-
-
         // UnSorted List
         System.out.println(products);
 
